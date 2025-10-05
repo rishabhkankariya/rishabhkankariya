@@ -1,6 +1,16 @@
+<script
+  src="https://unpkg.com/@lottiefiles/dotlottie-wc@0.8.1/dist/dotlottie-wc.js"
+  type="module"
+></script>
+
 <h1 align="center">Hi 👋, I'm Rishabh Kankariya</h1>
 <h3 align="center">Cloud Computing Enthusiast Focused on AWS DevOps & Linux</h3>
-
+<dotlottie-wc
+  src="https://lottie.host/7507972f-1fcd-459c-a8f1-b0ab0546b05d/iGENdx3Myh.lottie"
+  style="width: 300px;height: 300px"
+  autoplay
+  loop
+></dotlottie-wc>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rishabhkankariya&label=Profile%20views&color=0e75b6&style=flat" alt="rishabhkankariya" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rishabhkankariya" alt="rishabhkankariya" /></a> </p>
