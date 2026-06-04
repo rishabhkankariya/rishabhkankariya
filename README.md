@@ -4,7 +4,7 @@
 <!--                        HEADER BANNER                          -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
-![Header Banner](https://capsule-render.vercel.app/api?type=waving&color=0:0a192f,50:172a45,100:3066be&height=220&section=header&text=Rishabh%20Kankariya&fontSize=50&fontColor=ffffff&fontAlignY=35&desc=Cloud%20%26%20DevOps%20Engineer%20%7C%20Technical%20Secretary%20at%20ZEI&descSize=16&descAlignY=55&descColor=64ffda&animation=fadeIn)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a192f,50:172a45,100:3066be&height=220&section=header&text=Rishabh%20Kankariya&fontSize=50&fontColor=ffffff&fontAlignY=35&desc=Cloud%20and%20DevOps%20Engineer%20%7C%20Technical%20Secretary%20at%20ZEI&descSize=16&descAlignY=55&descColor=64ffda&animation=fadeIn" width="100%"/>
 
 ---
 
