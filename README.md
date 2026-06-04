@@ -4,118 +4,57 @@
 <!--                        HEADER BANNER                          -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
-<img src="https://capsule-render.vercel.app/api?type=speech&amp;color=0:0a192f,50:172a45,100:3066be&amp;height=247&amp;text=Rishabh%20Kankariya&amp;fontSize=48&amp;fontColor=ffffff&amp;fontAlignY=40&amp;animation=fadeIn&amp;stroke=ffffff&amp;strokeWidth=0&amp;desc=Cloud%20and%20DevOps%20Enthusiast%20-%20Technical%20Secretary%20at%20ZEN%20CLUB%20-%20MIT%20ADT%20University&amp;descSize=16&amp;descColor=64ffda&amp;descAlignY=58&amp;font=Outfit&amp;v=4" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=speech&amp;color=0:0a192f,50:172a45,100:3066be&amp;height=247&amp;text=Rishabh%20Kankariya&amp;fontSize=48&amp;fontColor=ffffff&amp;fontAlignY=40&amp;animation=fadeIn&amp;stroke=ffffff&amp;strokeWidth=0&amp;desc=Cloud%20Infrastructure%20-%20DevOps%20-%20Automation%20-%20Open%20Source&amp;descSize=16&amp;descColor=64ffda&amp;descAlignY=58&amp;font=Outfit&amp;v=5" width="100%"/>
 
----
+# Rishabh Kankariya
 
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                      AT A GLANCE                              -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
+### **Cloud & DevOps Enthusiast**
 
-### `☁️ Beyond the code`
-
-<table width="100%">
-<tr>
-<td>
-<pre>
-<font color="#8a99ad"><i>// Systems & Leadership Console Terminal</i></font>
-<font color="#38bdf8"><b>rishabh-kankariya</b></font> <font color="#64ffda"><b>$</b></font> cat profile.json
-{
-  <font color="#ff7b72">"name"</font>: <font color="#a5d6ff">"Rishabh Kankariya"</font>,
-  <font color="#ff7b72">"location"</font>: <font color="#a5d6ff">"Ujjain, Madhya Pradesh, India 📍"</font>,
-  <font color="#ff7b72">"education"</font>: <font color="#a5d6ff">"B.Tech CSE @ MIT-ADT University 🎓"</font>,
-  <font color="#ff7b72">"leadership"</font>: <font color="#a5d6ff">"Technical Secretary @ Zone Of Engineering Innovators 🏛️"</font>,
-  <font color="#ff7b72">"career_focus"</font>: <font color="#a5d6ff">"Cloud & DevOps Engineering ☁️ 🚀"</font>,
-  <font color="#ff7b72">"status"</font>: <font color="#a5d6ff">"Automating infra · Orchestrating containers · Fostering tech communities"</font>
-}
-</pre>
-</td>
-</tr>
-</table>
+[Resume](http://rishabh-kankariya.netlify.app/) &bull; [LinkedIn](https://www.linkedin.com/in/rishabh-kankariya/) &bull; [Portfolio](http://rishabh-kankariya.netlify.app/) &bull; [Email](mailto:rishabhkankariya69@gmail.com)
 
 </div>
 
-<br/>
+---
+
+*   🏛️ **Technical Secretary** @ Zone Of Engineering Innovators
+*   🎓 **B.Tech CSE Student** @ MIT-ADT University
+*   💻 **Building software solutions** while transitioning into Cloud Infrastructure & Automation
+*   ⚙️ **Focused on** AWS, Linux, Docker, Kubernetes, Terraform, and CI/CD
 
 ---
 
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                       WHO I AM                                -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
+## 🎯 Current Goal
 
-<table width="100%">
-  <tr>
-    <td width="60%" valign="top">
-      <h2>👤 Who I Am</h2>
-      <p>I am a Computer Science Engineering student specializing in cloud infrastructure, virtualization, and automated deployment architectures. By blending strong software development foundations with hands-on systems operations, I build applications designed to scale.</p>
-      <p>As the <b>Technical Secretary at Zone Of Engineering Innovators (ZEI)</b>, I bridge the gap between technical design and team execution, leading community hackathons and guiding student developers from local code execution to automated cloud deployment.</p>
-    </td>
-    <td width="40%" valign="top">
-      <h2>⚡ Operating Principles</h2>
-      <ul>
-        <li><b>Automate Everything:</b> If a workflow is repeated twice, it deserves a script/pipeline.</li>
-        <li><b>IaC Over ClickOps:</b> Maintain reproducible setups through declarative config files.</li>
-        <li><b>Security by Design:</b> Restrict access controls and secure namespaces early on.</li>
-        <li><b>Community First:</b> Accelerate technical ecosystems through knowledge sharing.</li>
-      </ul>
-    </td>
-  </tr>
-</table>
+Working toward a career in Cloud & DevOps Engineering through hands-on projects, cloud infrastructure, automation, and continuous learning.
 
 ---
 
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                    CURRENT FOCUS                              -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
+## 🚀 Current Learning
 
-## 🚀 Current Focus & Milestones
-
-- 🛠️ **Infrastructure as Code**: Writing modular, reusable configurations with **Terraform** for declarative environment setup.
-- 🐳 **Containerization & Orchestration**: Scaling services through **Docker** containerization and managing cluster lifecycles using **Kubernetes**.
-- ⚡ **CI/CD Pipelines**: Automating testing, building, and deployment processes using **GitHub Actions**.
-- ☁️ **Cloud Native Architectures**: Hosting and monitoring high-availability architectures on **AWS**.
+*   [x] **AWS** Cloud Services
+*   [x] **Linux** Administration
+*   [x] **Docker & Kubernetes**
+*   [x] **Terraform**
+*   [x] **GitHub Actions**
+*   [x] **CI/CD Pipelines**
 
 ---
 
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                 LEARNING TIMELINE                             -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
+## 🗺️ Career & Learning Timeline
 
-## 🗺️ Learning & Growth Journey
-
-```mermaid
-gitGraph
-    commit id: "🌐 Web Dev" tag: "HTML/CSS/JS Basics"
-    commit id: "💻 Full Stack" tag: "React/Node.js/MySQL Apps"
-    branch leadership
-    checkout leadership
-    commit id: "🏛️ Tech Secretary" tag: "Event & Project Leadership"
-    checkout main
-    merge leadership
-    commit id: "☁️ Cloud & DevOps" tag: "AWS/Docker/K8s/IaC"
-```
-
-*   **🌐 Web Development Era (The Foundation)**
-    *   *Focus:* Mastered client-side fundamentals (HTML, CSS, JavaScript) to understand browser mechanics and user interactions.
-*   **💻 Full Stack Projects (Connecting Logic & Data)**
-    *   *Focus:* Expanded into full-stack architecture using **React** for interactive frontends, **Node.js** for RESTful API logic, and **MySQL** for structured data modeling.
-*   **🏛️ Leadership Experience (Community & Collaboration)**
-    *   *Focus:* Took on the role of **Technical Secretary** at Zone Of Engineering Innovators. Facilitated peer-to-peer mentoring, designed workshop curriculums, and coordinated large-scale developer gatherings.
-*   **☁️ Cloud & DevOps Transition (Scale & Automation)**
-    *   *Focus:* Currently specializing in cloud-native paradigms, container virtualization, systems administration on **Linux**, and infrastructure automation using **Terraform** and **GitHub Actions**.
+*   **2023** ➜ Started Web Development (HTML, CSS, JS fundamentals)
+*   **2024** ➜ Built Full Stack Projects (React, Node.js, MySQL systems)
+*   **2025** ➜ Technical Secretary @ Zone Of Engineering Innovators (ZEN)
+*   **2026** ➜ Exploring Cloud & DevOps Engineering (AWS, IaC, Kubernetes)
 
 ---
-
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                    TECH STACK & SKILLS                        -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
 
 ## ⚙️ Core Technical Arsenal
 
 **Cloud & Orchestration**
 ![AWS](https://img.shields.io/badge/AWS-%23232F3E.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
 
 **Infrastructure as Code & OS**
 ![Terraform](https://img.shields.io/badge/Terraform-%23623CE4.svg?style=for-the-badge&logo=terraform&logoColor=white)
@@ -132,60 +71,46 @@ gitGraph
 
 ---
 
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                 FEATURED PROJECTS                             -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
 ## 🛠️ Featured Projects
 
-<table width="100%">
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🇮🇳 <a href="https://github.com/rishabhkankariya/AI-for-Bharat_Single-Window-System-Project-Team-gitignore">AI For Bharat Project</a></h3>
-      <p>A collaborative project focused on building localized, scalable, AI-driven applications. Standardized system endpoints and automated processing workflows for regional language processing tasks.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-        <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
-        <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white" />
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h3>⚡ <a href="https://github.com/rishabhkankariya/ZEN_Project">ZEN Project</a></h3>
-      <p>A specialized project development ecosystem built for <i>Zone of Engineering Innovators</i>. Enables engineering students to host open-source initiatives, share configurations, and collaborate on design structures.</p>
-      <p>
-        <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
-        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
-        <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🚌 <a href="https://github.com/rishabhkankariya/bus-pass-system">Bus Pass System</a></h3>
-      <p>An automated web-based ticketing and pass issuance portal. Restructured transit request handling, automated database record auditing, and optimized validation routes to minimize operational delay.</p>
-      <p>
-        <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
-        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
-        <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h3>🔍 <a href="https://github.com/adityarajlonkar09-commits/CDE">Company Discovery Engine</a></h3>
-      <p>A metadata extraction and search service designed to crawl and query corporate records. Features an optimized indexing layer and clean REST APIs for industrial integration.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
-        <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
-        <img src="https://img.shields.io/badge/CI%2FCD-Active-64ffda?style=flat-square" />
-      </p>
-    </td>
-  </tr>
-</table>
+### 🚌 [Bus Pass System](https://github.com/rishabhkankariya/bus-pass-system)
+*Digital transport management platform.*
+*   **Problem Solved:** Digitized student transport pass management, reducing manual registration and long administrative lines.
+*   **Outcomes & Features:**
+    *   Designed online application and renewal process.
+    *   Built administrative dashboard for request verification.
+    *   Integrated relational database storage (MySQL).
+    *   **Reduced manual paperwork workflow by 80%**.
+*   **Tech Stack:** `React` &bull; `Node.js` &bull; `MySQL`
+
+### 🇮🇳 [AI For Bharat](https://github.com/rishabhkankariya/AI-for-Bharat_Single-Window-System-Project-Team-gitignore)
+*AI-powered solution developed during AI For Bharat initiative.*
+*   **Problem Solved:** Standardized and deployed AI models for regional Indian languages at scale.
+*   **Outcomes & Features:**
+    *   Designed endpoints for localized language processing.
+    *   Containerized backend services using Docker.
+    *   Automated execution and deployment workflows on AWS.
+*   **Tech Stack:** `Python` &bull; `Docker` &bull; `AWS`
+
+### ⚡ [ZEN Project](https://github.com/rishabhkankariya/ZEN_Project)
+*Collaborative workspace portal for engineering innovation.*
+*   **Problem Solved:** Streamlined open-source student project hosting and configuration sharing at Zone Of Engineering Innovators.
+*   **Outcomes & Features:**
+    *   Created a collaborative code publishing hub.
+    *   Integrated version checkouts for configuration audits.
+    *   Implemented interactive peer reviews and staging.
+*   **Tech Stack:** `React` &bull; `Node.js` &bull; `MySQL`
+
+### 🔍 [Company Discovery Engine](https://github.com/adityarajlonkar09-commits/CDE)
+*Intelligent corporate metadata extraction service.*
+*   **Problem Solved:** Built a metadata collection system to search and index corporate records.
+*   **Outcomes & Features:**
+    *   Designed crawlers querying corporate endpoints.
+    *   Structured index optimization and database querying.
+    *   Implemented automated test suites (CI/CD).
+*   **Tech Stack:** `Node.js` &bull; `MySQL` &bull; `CI/CD`
 
 ---
-
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                LEADERSHIP CALLOUT BOX                         -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
 
 ## 🏛️ Leadership & Community
 
@@ -203,85 +128,20 @@ gitGraph
 
 ---
 
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                  GITHUB STATS                                 -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
-## 📊 GitHub Analytics & Metrics
-
-<table width="100%">
-  <tr>
-    <td align="center" width="50%">
-      <img src="https://github-readme-stats.vercel.app/api?username=rishabhkankariya&amp;show_icons=true&amp;theme=tokyonight&amp;hide_border=true&amp;include_all_commits=true&amp;count_private=true&amp;rank_icon=github&amp;v=3" height="165"/>
-    </td>
-    <td align="center" width="50%">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rishabhkankariya&amp;layout=compact&amp;theme=tokyonight&amp;hide_border=true&amp;langs_count=6&amp;v=3" height="165"/>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" colspan="2">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=rishabhkankariya&amp;theme=tokyonight&amp;hide_border=true&amp;v=3" width="70%"/>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" colspan="2">
-      <img src="https://github-readme-activity-graph.vercel.app/graph?username=rishabhkankariya&amp;theme=tokyo-night&amp;hide_border=true&amp;area=true&amp;v=3" width="100%"/>
-    </td>
-  </tr>
-</table>
-
----
-
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--             CONTRIBUTION ANALYTICS                            -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
-## 🧩 Contribution Breakdown
-
-<table width="100%">
-  <tr>
-    <td align="center" colspan="4">
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rishabhkankariya&amp;theme=tokyonight&amp;v=3" width="100%"/>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="25%">
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rishabhkankariya&amp;theme=tokyonight&amp;v=3" height="150"/>
-    </td>
-    <td align="center" width="25%">
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=rishabhkankariya&amp;theme=tokyonight&amp;v=3" height="150"/>
-    </td>
-    <td align="center" width="25%">
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=rishabhkankariya&amp;theme=tokyonight&amp;v=3" height="150"/>
-    </td>
-    <td align="center" width="25%">
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=rishabhkankariya&amp;theme=tokyonight&amp;utcOffset=5.5&amp;v=3" height="150"/>
-    </td>
-  </tr>
-</table>
-
----
-
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                   LET'S CONNECT                               -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
-## 🤝 Let's Connect
+## 📊 GitHub Analytics
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Rishabh%20Kankariya-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rishabh-kankariya/)
-[![GitHub](https://img.shields.io/badge/GitHub-rishabhkankariya-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rishabhkankariya)
-[![Gmail](https://img.shields.io/badge/Gmail-rishabhkankariya69@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rishabhkankariya69@gmail.com)
+<img src="https://github-readme-stats.vercel.app/api?username=rishabhkankariya&amp;show_icons=true&amp;bg_color=0a192f&amp;title_color=64ffda&amp;text_color=e2e8f0&amp;icon_color=64ffda&amp;hide_border=true&amp;include_all_commits=true&amp;count_private=true&amp;rank_icon=github&amp;v=5" height="165"/>
 
-</div>
+<br/><br/>
 
----
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=rishabhkankariya&amp;theme=tokyo-night&amp;hide_border=true&amp;area=true&amp;bg_color=0a192f&amp;color=64ffda&amp;line=3066be&amp;point=ffffff&amp;v=5" width="95%"/>
 
-<div align="center">
+<br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=rishabhkankariya&amp;label=Profile+Views&amp;color=3066be&amp;style=flat-square&amp;v=3" alt="Profile Views"/>
+<img src="https://komarev.com/ghpvc/?username=rishabhkankariya&amp;label=Profile+Views&amp;color=3066be&amp;style=flat-square&amp;v=5" alt="Profile Views"/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:3066be,50:172a45,100:0a192f&amp;height=100&amp;section=footer&amp;v=3" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:3066be,50:172a45,100:0a192f&amp;height=100&amp;section=footer&amp;v=5" width="100%"/>
 
 </div>
