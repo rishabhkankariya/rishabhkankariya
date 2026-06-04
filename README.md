@@ -211,16 +211,10 @@ gitGraph
 <table width="100%">
   <tr>
     <td align="center" width="50%">
-      <img src="https://github-readme-stats.shion.dev/api?username=rishabhkankariya&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github&v=8" height="165"/>
+      <img src="https://github-readme-stats.shion.dev/api?username=rishabhkankariya&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github&v=9" height="165"/>
     </td>
     <td align="center" width="50%">
-      <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=rishabhkankariya&layout=compact&theme=tokyonight&hide_border=true&langs_count=6&v=8" height="165"/>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" colspan="2">
-      <br/>
-      <img src="https://streak-stats.demolab.com/?user=rishabhkankariya&theme=tokyonight&hide_border=true&v=8" width="70%"/>
+      <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=rishabhkankariya&layout=compact&theme=tokyonight&hide_border=true&langs_count=6&v=9" height="165"/>
     </td>
   </tr>
 </table>
