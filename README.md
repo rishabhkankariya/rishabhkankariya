@@ -4,7 +4,7 @@
 <!--                        HEADER BANNER                          -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
-<img src="https://capsule-render.vercel.app/api?type=speech&amp;color=0:0a192f,50:172a45,100:3066be&amp;height=247&amp;text=Rishabh%20Kankariya&amp;fontSize=48&amp;fontColor=ffffff&amp;fontAlignY=40&amp;animation=fadeIn&amp;stroke=ffffff&amp;strokeWidth=0&amp;desc=Cloud%20Infrastructure%20-%20DevOps%20-%20Automation%20-%20Open%20Source&amp;descSize=16&amp;descColor=64ffda&amp;descAlignY=58&amp;font=Outfit&amp;v=6" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=speech&color=0:0a192f,50:172a45,100:3066be&height=247&text=Rishabh%20Kankariya&fontSize=48&fontColor=ffffff&fontAlignY=40&animation=fadeIn&stroke=ffffff&strokeWidth=0&desc=Cloud%20Infrastructure%20-%20DevOps%20-%20Automation%20-%20Open%20Source&descSize=16&descColor=64ffda&descAlignY=58&font=Outfit&v=7" width="100%"/>
 
 ---
 
@@ -211,20 +211,20 @@ gitGraph
 <table width="100%">
   <tr>
     <td align="center" width="50%">
-      <img src="https://github-readme-stats.vercel.app/api?username=rishabhkankariya&amp;show_icons=true&amp;theme=tokyonight&amp;hide_border=true&amp;include_all_commits=true&amp;count_private=true&amp;rank_icon=github&amp;v=6" height="165"/>
+      <img src="https://github-readme-stats.vercel.app/api?username=rishabhkankariya&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github&v=7" height="165"/>
     </td>
     <td align="center" width="50%">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rishabhkankariya&amp;layout=compact&amp;theme=tokyonight&amp;hide_border=true&amp;langs_count=6&amp;v=6" height="165"/>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rishabhkankariya&layout=compact&theme=tokyonight&hide_border=true&langs_count=6&v=7" height="165"/>
     </td>
   </tr>
   <tr>
     <td align="center" colspan="2">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=rishabhkankariya&amp;theme=tokyonight&amp;hide_border=true&amp;v=6" width="70%"/>
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=rishabhkankariya&theme=tokyonight&hide_border=true&v=7" width="70%"/>
     </td>
   </tr>
   <tr>
     <td align="center" colspan="2">
-      <img src="https://github-readme-activity-graph.vercel.app/graph?username=rishabhkankariya&amp;theme=tokyo-night&amp;hide_border=true&amp;area=true&amp;v=6" width="100%"/>
+      <img src="https://github-readme-activity-graph.vercel.app/graph?username=rishabhkankariya&theme=tokyo-night&hide_border=true&area=true&v=7" width="100%"/>
     </td>
   </tr>
 </table>
@@ -240,21 +240,21 @@ gitGraph
 <table width="100%">
   <tr>
     <td align="center" colspan="4">
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rishabhkankariya&amp;theme=tokyonight&amp;v=6" width="100%"/>
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rishabhkankariya&theme=tokyonight&v=7" width="100%"/>
     </td>
   </tr>
   <tr>
     <td align="center" width="25%">
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rishabhkankariya&amp;theme=tokyonight&amp;v=6" height="150"/>
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rishabhkankariya&theme=tokyonight&v=7" height="150"/>
     </td>
     <td align="center" width="25%">
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=rishabhkankariya&amp;theme=tokyonight&amp;v=6" height="150"/>
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=rishabhkankariya&theme=tokyonight&v=7" height="150"/>
     </td>
     <td align="center" width="25%">
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=rishabhkankariya&amp;theme=tokyonight&amp;v=6" height="150"/>
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=rishabhkankariya&theme=tokyonight&v=7" height="150"/>
     </td>
     <td align="center" width="25%">
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=rishabhkankariya&amp;theme=tokyonight&amp;utcOffset=5.5&amp;v=6" height="150"/>
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=rishabhkankariya&theme=tokyonight&utcOffset=5.5&v=7" height="150"/>
     </td>
   </tr>
 </table>
@@ -279,8 +279,8 @@ gitGraph
 
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=rishabhkankariya&amp;label=Profile+Views&amp;color=3066be&amp;style=flat-square&amp;v=6" alt="Profile Views"/>
+<img src="https://komarev.com/ghpvc/?username=rishabhkankariya&label=Profile+Views&color=3066be&style=flat-square&v=7" alt="Profile Views"/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:3066be,50:172a45,100:0a192f&amp;height=100&amp;section=footer&amp;v=6" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3066be,50:172a45,100:0a192f&height=100&section=footer&v=7" width="100%"/>
 
 </div>
