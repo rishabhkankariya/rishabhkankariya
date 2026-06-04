@@ -1,15 +1,288 @@
-# About Me:
-💻 Currently building practical web and mobile solutions.<br>🤝 Open to collaborating on real-world projects.<br>🛠️ Looking for guidance in DevOps and system design.<br>🌱 Learning Docker, Kubernetes, AWS, and backend scaling.<br>💬 Ask me about web development, apps, and project ideas.<br>⚡ I enjoy turning simple ideas into usable products.
+<div align="center">
 
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                        HEADER BANNER                          -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
 
-## Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/rishabhh._.xd/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/rishabh-kankariya/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:rishabhkankariya69@gmail.com) 
+![Header Banner](https://capsule-render.vercel.app/api?type=waving&color=0:0a192f,50:172a45,100:3066be&height=220&section=header&text=Rishabh%20Kankariya&fontSize=50&fontColor=ffffff&fontAlignY=35&desc=Cloud%20%26%20DevOps%20Engineer%20%7C%20Technical%20Secretary%20at%20ZEI&descSize=16&descAlignY=55&descColor=64ffda&animation=fadeIn)
 
-# Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Nuxt JS](https://img.shields.io/badge/Nuxt-002E3B?style=for-the-badge&logo=nuxt.js&logoColor=#00DC82) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101) ![Three js](https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) ![Web3.js](https://img.shields.io/badge/web3.js-F16822?style=for-the-badge&logo=web3.js&logoColor=white) ![Windicss](https://img.shields.io/badge/windicss-48B0F1.svg?style=for-the-badge&logo=windi-css&logoColor=white) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![Appwrite](https://img.shields.io/badge/Appwrite-%23FD366E.svg?style=for-the-badge&logo=appwrite&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=rishabhkankariya&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://streak-stats.demolab.com/?user=rishabhkankariya&theme=tokyonight&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=rishabhkankariya&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+---
 
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                      AT A GLANCE                              -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
 
+### `☁️ Beyond the code`
+
+<table width="100%">
+<tr>
+<td>
+<pre>
+<font color="#8a99ad"><i>// Systems & Leadership Console Terminal</i></font>
+<font color="#38bdf8"><b>rishabh-kankariya</b></font> <font color="#64ffda"><b>$</b></font> cat profile.json
+{
+  <font color="#ff7b72">"name"</font>: <font color="#a5d6ff">"Rishabh Kankariya"</font>,
+  <font color="#ff7b72">"location"</font>: <font color="#a5d6ff">"Ujjain, Madhya Pradesh, India 📍"</font>,
+  <font color="#ff7b72">"education"</font>: <font color="#a5d6ff">"B.Tech CSE @ MIT-ADT University 🎓"</font>,
+  <font color="#ff7b72">"leadership"</font>: <font color="#a5d6ff">"Technical Secretary @ Zone Of Engineering Innovators 🏛️"</font>,
+  <font color="#ff7b72">"career_focus"</font>: <font color="#a5d6ff">"Cloud & DevOps Engineering ☁️ 🚀"</font>,
+  <font color="#ff7b72">"status"</font>: <font color="#a5d6ff">"Automating infra · Orchestrating containers · Fostering tech communities"</font>
+}
+</pre>
+</td>
+</tr>
+</table>
+
+</div>
+
+<br/>
+
+---
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                       WHO I AM                                -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+<table width="100%">
+  <tr>
+    <td width="60%" valign="top">
+      <h2>👤 Who I Am</h2>
+      <p>I am a Computer Science Engineering student specializing in cloud infrastructure, virtualization, and automated deployment architectures. By blending strong software development foundations with hands-on systems operations, I build applications designed to scale.</p>
+      <p>As the <b>Technical Secretary at Zone Of Engineering Innovators (ZEI)</b>, I bridge the gap between technical design and team execution, leading community hackathons and guiding student developers from local code execution to automated cloud deployment.</p>
+    </td>
+    <td width="40%" valign="top">
+      <h2>⚡ Operating Principles</h2>
+      <ul>
+        <li><b>Automate Everything:</b> If a workflow is repeated twice, it deserves a script/pipeline.</li>
+        <li><b>IaC Over ClickOps:</b> Maintain reproducible setups through declarative config files.</li>
+        <li><b>Security by Design:</b> Restrict access controls and secure namespaces early on.</li>
+        <li><b>Community First:</b> Accelerate technical ecosystems through knowledge sharing.</li>
+      </ul>
+    </td>
+  </tr>
+</table>
+
+---
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                    CURRENT FOCUS                              -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+## 🚀 Current Focus & Milestones
+
+- 🛠️ **Infrastructure as Code**: Writing modular, reusable configurations with **Terraform** for declarative environment setup.
+- 🐳 **Containerization & Orchestration**: Scaling services through **Docker** containerization and managing cluster lifecycles using **Kubernetes**.
+- ⚡ **CI/CD Pipelines**: Automating testing, building, and deployment processes using **GitHub Actions**.
+- ☁️ **Cloud Native Architectures**: Hosting and monitoring high-availability architectures on **AWS**.
+
+---
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                 LEARNING TIMELINE                             -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+## 🗺️ Learning & Growth Journey
+
+```mermaid
+gitGraph
+    commit id: "🌐 Web Dev" tag: "HTML/CSS/JS Basics"
+    commit id: "💻 Full Stack" tag: "React/Node.js/MySQL Apps"
+    branch leadership
+    checkout leadership
+    commit id: "🏛️ Tech Secretary" tag: "Event & Project Leadership"
+    checkout main
+    merge leadership
+    commit id: "☁️ Cloud & DevOps" tag: "AWS/Docker/K8s/IaC"
+```
+
+*   **🌐 Web Development Era (The Foundation)**
+    *   *Focus:* Mastered client-side fundamentals (HTML, CSS, JavaScript) to understand browser mechanics and user interactions.
+*   **💻 Full Stack Projects (Connecting Logic & Data)**
+    *   *Focus:* Expanded into full-stack architecture using **React** for interactive frontends, **Node.js** for RESTful API logic, and **MySQL** for structured data modeling.
+*   **🏛️ Leadership Experience (Community & Collaboration)**
+    *   *Focus:* Took on the role of **Technical Secretary** at Zone Of Engineering Innovators. Facilitated peer-to-peer mentoring, designed workshop curriculums, and coordinated large-scale developer gatherings.
+*   **☁️ Cloud & DevOps Transition (Scale & Automation)**
+    *   *Focus:* Currently specializing in cloud-native paradigms, container virtualization, systems administration on **Linux**, and infrastructure automation using **Terraform** and **GitHub Actions**.
+
+---
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                    TECH STACK & SKILLS                        -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+## ⚙️ Core Technical Arsenal
+
+**Cloud & Orchestration**
+![AWS](https://img.shields.io/badge/AWS-%23232F3E.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+
+**Infrastructure as Code & OS**
+![Terraform](https://img.shields.io/badge/Terraform-%23623CE4.svg?style=for-the-badge&logo=terraform&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+**CI/CD & Version Control**
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+
+**Full-Stack & Databases**
+![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-%2300758F.svg?style=for-the-badge&logo=mysql&logoColor=white)
+
+---
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                 FEATURED PROJECTS                             -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+## 🛠️ Featured Projects
+
+<table width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🇮🇳 <a href="https://github.com/rishabhkankariya/AI-for-Bharat_Single-Window-System-Project-Team-gitignore">AI For Bharat Project</a></h3>
+      <p>A collaborative project focused on building localized, scalable, AI-driven applications. Standardized system endpoints and automated processing workflows for regional language processing tasks.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+        <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+        <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white" />
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>⚡ <a href="https://github.com/rishabhkankariya/ZEN_Project">ZEN Project</a></h3>
+      <p>A specialized project development ecosystem built for <i>Zone of Engineering Innovators</i>. Enables engineering students to host open-source initiatives, share configurations, and collaborate on design structures.</p>
+      <p>
+        <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
+        <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🚌 <a href="https://github.com/rishabhkankariya/bus-pass-system">Bus Pass System</a></h3>
+      <p>An automated web-based ticketing and pass issuance portal. Restructured transit request handling, automated database record auditing, and optimized validation routes to minimize operational delay.</p>
+      <p>
+        <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
+        <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🔍 <a href="https://github.com/adityarajlonkar09-commits/CDE">Company Discovery Engine</a></h3>
+      <p>A metadata extraction and search service designed to crawl and query corporate records. Features an optimized indexing layer and clean REST APIs for industrial integration.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
+        <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+        <img src="https://img.shields.io/badge/CI%2FCD-Active-64ffda?style=flat-square" />
+      </p>
+    </td>
+  </tr>
+</table>
+
+---
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                LEADERSHIP CALLOUT BOX                         -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+## 🏛️ Leadership & Community
+
+<div align="center">
+
+> ### 🎙️ Technical Secretary — Zone Of Engineering Innovators
+>
+> *Leading engineering community outreach, orchestrating student hackathons, and designing skill development tracks.*
+>
+> `Technical Mentoring` &nbsp;·&nbsp; `Systems Design Demos` &nbsp;·&nbsp; `Agile Leadership` &nbsp;·&nbsp; `Community Management`
+>
+> *"Empowering student engineers to transform conceptual theories into functional systems."*
+
+</div>
+
+---
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                  GITHUB STATS                                 -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+## 📊 GitHub Analytics & Metrics
+
+<table width="100%">
+  <tr>
+    <td align="center" width="50%">
+      <img src="https://github-readme-stats.vercel.app/api?username=rishabhkankariya&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github" height="165"/>
+    </td>
+    <td align="center" width="50%">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rishabhkankariya&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" height="165"/>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" colspan="2">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=rishabhkankariya&theme=tokyonight&hide_border=true" width="70%"/>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" colspan="2">
+      <img src="https://github-readme-activity-graph.vercel.app/graph?username=rishabhkankariya&theme=tokyo-night&hide_border=true&area=true" width="100%"/>
+    </td>
+  </tr>
+</table>
+
+---
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--             CONTRIBUTION ANALYTICS                            -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+## 🧩 Contribution Breakdown
+
+<table width="100%">
+  <tr>
+    <td align="center" colspan="4">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rishabhkankariya&theme=tokyonight" width="100%"/>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="25%">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rishabhkankariya&theme=tokyonight" height="150"/>
+    </td>
+    <td align="center" width="25%">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=rishabhkankariya&theme=tokyonight" height="150"/>
+    </td>
+    <td align="center" width="25%">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=rishabhkankariya&theme=tokyonight" height="150"/>
+    </td>
+    <td align="center" width="25%">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=rishabhkankariya&theme=tokyonight&utcOffset=5.5" height="150"/>
+    </td>
+  </tr>
+</table>
+
+---
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                   LET'S CONNECT                               -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+## 🤝 Let's Connect
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Rishabh%20Kankariya-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rishabh-kankariya/)
+[![Instagram](https://img.shields.io/badge/Instagram-rishabhkankariya-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/rishabhkankariya/)
+[![GitHub](https://img.shields.io/badge/GitHub-rishabhkankariya-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rishabhkankariya)
+[![Gmail](https://img.shields.io/badge/Gmail-rishabhkankariya69@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rishabhkankariya69@gmail.com)
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://komarev.com/ghpvc/?username=rishabhkankariya&label=Profile+Views&color=3066be&style=flat-square" alt="Profile Views"/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3066be,50:172a45,100:0a192f&height=100&section=footer" width="100%"/>
+
+</div>
