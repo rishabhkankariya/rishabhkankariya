@@ -4,7 +4,7 @@
 <!--                        HEADER BANNER                          -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
-<img src="https://capsule-render.vercel.app/api?type=speech&color=0:0a192f,50:172a45,100:3066be&height=247&text=Rishabh%20Kankariya&fontSize=48&fontColor=ffffff&fontAlignY=40&animation=fadeIn&stroke=ffffff&strokeWidth=0&desc=Cloud%20Infrastructure%20-%20DevOps%20-%20Automation%20-%20Open%20Source&descSize=16&descColor=64ffda&descAlignY=58&font=Outfit&v=7" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=speech&color=0:0a192f,50:172a45,100:3066be&height=247&text=Rishabh%20Kankariya&fontSize=48&fontColor=ffffff&fontAlignY=40&animation=fadeIn&stroke=ffffff&strokeWidth=0&desc=Cloud%20Infrastructure%20-%20DevOps%20-%20Automation%20-%20Open%20Source&descSize=16&descColor=64ffda&descAlignY=58&font=Outfit&v=8" width="100%"/>
 
 ---
 
@@ -206,55 +206,21 @@ gitGraph
 <!--                  GITHUB STATS                                 -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
-## 📊 GitHub Analytics & Metrics
+## 📊 GitHub Analytics
 
 <table width="100%">
   <tr>
     <td align="center" width="50%">
-      <img src="https://github-readme-stats.vercel.app/api?username=rishabhkankariya&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github&v=7" height="165"/>
+      <img src="https://github-readme-stats.shion.dev/api?username=rishabhkankariya&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github&v=8" height="165"/>
     </td>
     <td align="center" width="50%">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rishabhkankariya&layout=compact&theme=tokyonight&hide_border=true&langs_count=6&v=7" height="165"/>
+      <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=rishabhkankariya&layout=compact&theme=tokyonight&hide_border=true&langs_count=6&v=8" height="165"/>
     </td>
   </tr>
   <tr>
     <td align="center" colspan="2">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=rishabhkankariya&theme=tokyonight&hide_border=true&v=7" width="70%"/>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" colspan="2">
-      <img src="https://github-readme-activity-graph.vercel.app/graph?username=rishabhkankariya&theme=tokyo-night&hide_border=true&area=true&v=7" width="100%"/>
-    </td>
-  </tr>
-</table>
-
----
-
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--             CONTRIBUTION ANALYTICS                            -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
-## 🧩 Contribution Breakdown
-
-<table width="100%">
-  <tr>
-    <td align="center" colspan="4">
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rishabhkankariya&theme=tokyonight&v=7" width="100%"/>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="25%">
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rishabhkankariya&theme=tokyonight&v=7" height="150"/>
-    </td>
-    <td align="center" width="25%">
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=rishabhkankariya&theme=tokyonight&v=7" height="150"/>
-    </td>
-    <td align="center" width="25%">
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=rishabhkankariya&theme=tokyonight&v=7" height="150"/>
-    </td>
-    <td align="center" width="25%">
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=rishabhkankariya&theme=tokyonight&utcOffset=5.5&v=7" height="150"/>
+      <br/>
+      <img src="https://streak-stats.demolab.com/?user=rishabhkankariya&theme=tokyonight&hide_border=true&v=8" width="70%"/>
     </td>
   </tr>
 </table>
@@ -279,8 +245,8 @@ gitGraph
 
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=rishabhkankariya&label=Profile+Views&color=3066be&style=flat-square&v=7" alt="Profile Views"/>
+<img src="https://komarev.com/ghpvc/?username=rishabhkankariya&label=Profile+Views&color=3066be&style=flat-square&v=8" alt="Profile Views"/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3066be,50:172a45,100:0a192f&height=100&section=footer&v=7" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3066be,50:172a45,100:0a192f&height=100&section=footer&v=8" width="100%"/>
 
 </div>
