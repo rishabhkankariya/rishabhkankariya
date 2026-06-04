@@ -4,7 +4,7 @@
 <!--                        HEADER BANNER                          -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
-<img src="https://capsule-render.vercel.app/api?type=speech&color=0:0a192f,50:172a45,100:3066be&height=247&text=Rishabh%20Kankariya&fontSize=48&fontColor=ffffff&fontAlignY=40&animation=fadeIn&stroke=ffffff&strokeWidth=0&desc=Cloud%20Infrastructure%20-%20DevOps%20-%20Automation%20-%20Open%20Source&descSize=16&descColor=64ffda&descAlignY=58&font=Outfit&v=8" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=speech&color=0:0a192f,50:172a45,100:3066be&height=247&text=Rishabh%20Kankariya&fontSize=48&fontColor=ffffff&fontAlignY=40&animation=fadeIn&stroke=ffffff&strokeWidth=0&desc=Cloud%20and%20DevOps%20Enthusiast%20%7C%20Technical%20Secretary%20at%20ZEN%20%7C%20MIT%20ADT%20University&descSize=16&descColor=64ffda&descAlignY=58&font=Outfit&v=9" width="100%"/>
 
 ---
 
