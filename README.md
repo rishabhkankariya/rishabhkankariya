@@ -4,7 +4,7 @@
 <!--                        HEADER BANNER                          -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0a192f,50:172a45,100:3066be&amp;height=220&amp;section=header&amp;text=Rishabh%20Kankariya&amp;fontSize=50&amp;fontColor=ffffff&amp;fontAlignY=35&amp;desc=Cloud%20and%20DevOps%20Enthusiast%20-%20Technical%20Secretary%20at%20ZEI&amp;descSize=16&amp;descAlignY=55&amp;descColor=64ffda&amp;animation=fadeIn&amp;v=3" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=speech&amp;color=0:0a192f,50:172a45,100:3066be&amp;height=247&amp;text=Rishabh%20Kankariya&amp;fontSize=48&amp;fontColor=ffffff&amp;fontAlignY=40&amp;animation=fadeIn&amp;stroke=ffffff&amp;strokeWidth=0&amp;desc=Cloud%20and%20DevOps%20Enthusiast%20-%20Technical%20Secretary%20at%20ZEN%20CLUB%20-%20MIT%20ADT%20University&amp;descSize=16&amp;descColor=64ffda&amp;descAlignY=58&amp;font=Outfit&amp;v=4" width="100%"/>
 
 ---
 
