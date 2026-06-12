@@ -84,7 +84,7 @@
 
 | Project | Tech Stack | Description |
 |---|---|---|
-| 🚌 [Bus Pass System](https://github.com/rishabhkankariya/bus-pass-system) | `React` `Node.js` `MySQL` | Automated student bus pass registrations and digital verification routes. |
+| 🚌 [Bus Pass System](https://github.com/rishabhkankariya/codealpha_tasks/tree/main/Bus-Pass-System) | `React` `Node.js` `MySQL` | Automated student bus pass registrations and digital verification routes. |
 | 🇮🇳 [AI For Bharat Platform](https://github.com/VRAJPATEL621204/AI-for-Bharat_Single-Window-System-Project-Team-gitignore) | `Python` `Docker` `AWS` | Containerized API services and scaled models on cloud compute. |
 | ⚡ [ZEI Project Hub](https://github.com/rishabhkankariya/ZEN_Project) | `React` `Node.js` `MySQL` | Shared code collaboration and script repository for engineering innovators. |
 | 🔍 [Company Discovery Engine](https://github.com/adityarajlonkar09-commits/CDE) | `Node.js` `MySQL` `CI/CD` | Automated crawler and indexing system with GitHub Actions testing. |
