@@ -149,7 +149,7 @@ gitGraph
       </p>
     </td>
     <td width="50%" valign="top">
-      <h3>🇮🇳 <a href="https://github.com/rishabhkankariya/AI-for-Bharat_Single-Window-System-Project-Team-gitignore">AI For Bharat Project</a></h3>
+      <h3>🇮🇳 <a href="https://github.com/VRAJPATEL621204/AI-for-Bharat_Single-Window-System-Project-Team-gitignore">AI For Bharat Project</a></h3>
       <p>A collaborative project focused on scaling AI applications. Created API endpoints, containerized backend services using Docker, and deployed workflows on AWS.</p>
       <p>
         <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
