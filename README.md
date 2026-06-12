@@ -4,7 +4,7 @@
 <!--                        HEADER BANNER                          -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3066be,100:8E54E9&height=220&section=header&text=Rishabh%20Kankariya&fontSize=55&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Cloud%20&%20DevOps%20Enthusiast%20%7C%20Technical%20Secretary%20@%20ZEI&descAlignY=60&descSize=20&descColor=ffffffcc" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3066be,100:8E54E9&height=220&section=header&text=Rishabh%20Kankariya&fontSize=55&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Cloud%20and%20DevOps%20Enthusiast%20%7C%20Technical%20Secretary%20at%20ZEN%20%7C%20MIT%20ADT%20University&descAlignY=60&descSize=20&descColor=ffffffcc" width="100%"/>
 
 <br/>
 
@@ -97,8 +97,8 @@
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=rishabhkankariya&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=8E54E9&icon_color=4776E6&text_color=ffffff&count_private=true&rank_icon=github&include_all_commits=true" />
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rishabhkankariya&layout=compact&hide_border=true&bg_color=0d1117&title_color=8E54E9&text_color=ffffff&langs_count=8" />
+<img width="49%" src="https://github-readme-stats.shion.dev/api?username=rishabhkankariya&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github" />
+<img width="49%" src="https://github-readme-stats.shion.dev/api/top-langs/?username=rishabhkankariya&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
 
 <br/><br/>
 
