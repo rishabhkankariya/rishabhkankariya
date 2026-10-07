@@ -89,11 +89,6 @@
 | [ProfHere Faculty Management](https://github.com/rishabhkankariya/Profhere) | `Flutter` `Dart` `Firebase` `Mobile` | Smart campus faculty availability indicator and appointment consultation scheduling architecture. |
 | [Engineering Portfolio Platform](https://github.com/rishabhkankariya/portfolio) | `Next.js 16` `TypeScript` `Tailwind CSS` `Framer Motion` | Modern responsive cloud and systems engineering portfolio with custom AI copilot, interactive telemetry, and dynamic animations. |
 | [Bus Pass Automation System](https://github.com/rishabhkankariya/codealpha_tasks/tree/main/Bus-Pass-System) | `React` `Node.js` `MySQL` | Automated student transit pass registration, documentation review workflows, and digital validation routes. |
-| [Techfest 2026 Landing Page](https://github.com/rishabhkankariya/Techfest-2026-Aetherial-Renaissance-landing_page) | `HTML5` `CSS3` `JavaScript` `UI/UX` | Futuristic exhibition landing concept for Techfest IIT Bombay 2026 featuring bold typographic choreography and interactive event showcases. |
-| [Interactive Parallax Journey](https://github.com/rishabhkankariya/Interactive_Parallax_Website_task_by_iitbombay_techfest) | `HTML5` `GSAP ScrollTrigger` `CSS3` | Multi-layered scroll-driven parallax traversal across terrain canopies, mountain summits, and astrophysical singularities. |
-| [FlowPilot AI Platform](https://github.com/rishabhkankariya/flowpilotai_team_gitignore) | `TypeScript` `Next.js` `AI / LLM` | Intelligent workflow automation and team orchestration platform built for high-throughput developer collaboration. |
-| [E-Kitabghar Exam Portal](https://github.com/rishabhkankariya/ekitabhghar-project) | `PHP` `JavaScript` `MySQL` `Bootstrap` | Online diploma exam form submission portal spanning 9 academic departments with administrative review modules. |
-| [Personal Task Engine](https://github.com/rishabhkankariya/Perosnal-Todo-List) | `C#` `.NET` `Desktop` | Clean high-efficiency task scheduler and productivity management desktop utility. |
 
 </div>
 
