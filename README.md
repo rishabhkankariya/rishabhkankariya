@@ -14,7 +14,7 @@
 
 <a href="https://www.linkedin.com/in/rishabh-kankariya/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="https://github.com/rishabhkankariya"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
-<a href="mailto:rishabhkankariya69@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="mailto:rishabhkankariya53@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 <img src="https://komarev.com/ghpvc/?username=rishabhkankariya&label=Profile+Views&color=8E54E9&style=for-the-badge"/>
 
 </div>
@@ -84,16 +84,22 @@
 
 | Project | Tech Stack | Description |
 |---|---|---|
-| [Bus Pass System](https://github.com/rishabhkankariya/codealpha_tasks/tree/main/Bus-Pass-System) | `React` `Node.js` `MySQL` | Automated student bus pass registrations and digital verification routes. |
-| [AI For Bharat Platform](https://github.com/VRAJPATEL621204/AI-for-Bharat_Single-Window-System-Project-Team-gitignore) | `Python` `Docker` `AWS` | Containerized API services and scaled models on cloud compute. |
-| [ZEI Project Hub](https://github.com/rishabhkankariya/ZEN_Project) | `React` `Node.js` `MySQL` | Shared code collaboration and script repository for engineering innovators. |
-| [Company Discovery Engine](https://github.com/adityarajlonkar09-commits/CDE) | `Node.js` `MySQL` `CI/CD` | Automated crawler and indexing system with GitHub Actions testing. |
+| [1VN Secure Communication Platform](https://github.com/rishabhkankariya/1VN-Secure-Real-Time-Communication-Platform) | `Java` `JavaFX` `TCP Sockets` `MySQL` `AES-256-GCM` | Secure real-time communication platform with client-server networking, custom TCP sockets protocol, BCrypt authentication, and AES-256-GCM encryption. |
+| [Container-Based Virtual Labs](https://github.com/rishabhkankariya/Container_based_application_development_Virtual_labs) | `Docker` `Kubernetes` `Linux` `DevOps` | Interactive virtual laboratory environment designed for containerization, image build layering, microservice isolation, and cluster orchestration. |
+| [ProfHere Faculty Management](https://github.com/rishabhkankariya/Profhere) | `Flutter` `Dart` `Firebase` `Mobile` | Smart campus faculty availability indicator and appointment consultation scheduling architecture. |
+| [Engineering Portfolio Platform](https://github.com/rishabhkankariya/portfolio) | `Next.js 16` `TypeScript` `Tailwind CSS` `Framer Motion` | Modern responsive cloud and systems engineering portfolio with custom AI copilot, interactive telemetry, and dynamic animations. |
+| [Bus Pass Automation System](https://github.com/rishabhkankariya/codealpha_tasks/tree/main/Bus-Pass-System) | `React` `Node.js` `MySQL` | Automated student transit pass registration, documentation review workflows, and digital validation routes. |
+| [Techfest 2026 Landing Page](https://github.com/rishabhkankariya/Techfest-2026-Aetherial-Renaissance-landing_page) | `HTML5` `CSS3` `JavaScript` `UI/UX` | Futuristic exhibition landing concept for Techfest IIT Bombay 2026 featuring bold typographic choreography and interactive event showcases. |
+| [Interactive Parallax Journey](https://github.com/rishabhkankariya/Interactive_Parallax_Website_task_by_iitbombay_techfest) | `HTML5` `GSAP ScrollTrigger` `CSS3` | Multi-layered scroll-driven parallax traversal across terrain canopies, mountain summits, and astrophysical singularities. |
+| [FlowPilot AI Platform](https://github.com/rishabhkankariya/flowpilotai_team_gitignore) | `TypeScript` `Next.js` `AI / LLM` | Intelligent workflow automation and team orchestration platform built for high-throughput developer collaboration. |
+| [E-Kitabghar Exam Portal](https://github.com/rishabhkankariya/ekitabhghar-project) | `PHP` `JavaScript` `MySQL` `Bootstrap` | Online diploma exam form submission portal spanning 9 academic departments with administrative review modules. |
+| [Personal Task Engine](https://github.com/rishabhkankariya/Perosnal-Todo-List) | `C#` `.NET` `Desktop` | Clean high-efficiency task scheduler and productivity management desktop utility. |
 
 </div>
 
 ---
 
-## 📊 GitHub Analytics
+## GitHub Analytics
 
 <div align="center">
 
@@ -123,7 +129,7 @@
 
 ---
 
-## 🏆 Achievements & Badges
+## Achievements & Badges
 
 <div align="center">
 
@@ -146,7 +152,7 @@
 
 ---
 
-## 💬 Tech Quote
+## Tech Quote
 
 <div align="center">
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" width="80%"/>
@@ -154,7 +160,7 @@
 
 ---
 
-## 🤝 Let's Connect!
+## Connect & Collaborate
 
 <div align="center">
 
@@ -164,7 +170,7 @@
 |---|---|
 | LinkedIn | [rishabh-kankariya](https://www.linkedin.com/in/rishabh-kankariya/) |
 | GitHub | [rishabhkankariya](https://github.com/rishabhkankariya) |
-| Email | [rishabhkankariya69@gmail.com](mailto:rishabhkankariya69@gmail.com) |
+| Email | [rishabhkankariya53@gmail.com](mailto:rishabhkankariya53@gmail.com) |
 
 <br/>
 
