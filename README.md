@@ -23,30 +23,30 @@
 
 ---
 
-## 🌟 About Me
+## About Me
 
 <table>
 <tr>
-<td valign="top" width="55%">
+<td valign="top" width="56%">
 
 <br/>
 
 > *"Code is how we build the future, but DevOps is how we make it run."*
 
-🎓 **B.Tech CSE Student** @ MIT-ADT University  
-🏛️ **Technical Secretary** @ Zone Of Engineering Innovators (ZEI)  
-📍 **Location:** Ujjain / Pune, India 📍  
+**Academic Background:** B.Tech in Computer Science & Engineering, MIT-ADT University  
+**Leadership:** Technical Secretary, Zone Of Engineering Innovators (ZEI)  
+**Location:** Ujjain / Pune, India  
 
 <br/>
 
-🔭 Currently building **DevOps pipelines & full-stack web applications**  
-🌱 Leveling up on **Kubernetes · AWS Infrastructure · Terraform**  
-💡 Exploring **GitOps · Cloud Security · Automation Scripts**  
-🤝 Open to **Internships, Collaborations & Open Source Projects**  
-⚡ Fun fact: I debug infrastructure configs faster with lo-fi beats + green tea  
+- **Current Focus:** Engineering automated CI/CD pipelines and scalable full-stack web applications.
+- **Deepening Expertise:** Container orchestration with Kubernetes, cloud infrastructure on AWS, and declarative IaC with Terraform.
+- **Active Exploration:** GitOps workflows, automated cloud security, and systems automation.
+- **Opportunities:** Open to Software Engineering / Cloud / DevOps Internships, technical co-creation, and impactful open-source initiatives.
+- **Productivity Ritual:** Debugging distributed systems and infrastructure setups with lo-fi beats and green tea.
 
 </td>
-<td valign="top" width="45%">
+<td valign="top" width="44%">
 
 <br/>
 
@@ -58,7 +58,7 @@
 
 ---
 
-## 💻 Technical Skills
+## Technical Skills
 
 <div align="center">
 
@@ -78,16 +78,16 @@
 
 ---
 
-## 🛠️ Featured Work & Projects
+## Featured Work & Projects
 
 <div align="center">
 
 | Project | Tech Stack | Description |
 |---|---|---|
-| 🚌 [Bus Pass System](https://github.com/rishabhkankariya/codealpha_tasks/tree/main/Bus-Pass-System) | `React` `Node.js` `MySQL` | Automated student bus pass registrations and digital verification routes. |
-| 🇮🇳 [AI For Bharat Platform](https://github.com/VRAJPATEL621204/AI-for-Bharat_Single-Window-System-Project-Team-gitignore) | `Python` `Docker` `AWS` | Containerized API services and scaled models on cloud compute. |
-| ⚡ [ZEI Project Hub](https://github.com/rishabhkankariya/ZEN_Project) | `React` `Node.js` `MySQL` | Shared code collaboration and script repository for engineering innovators. |
-| 🔍 [Company Discovery Engine](https://github.com/adityarajlonkar09-commits/CDE) | `Node.js` `MySQL` `CI/CD` | Automated crawler and indexing system with GitHub Actions testing. |
+| [Bus Pass System](https://github.com/rishabhkankariya/codealpha_tasks/tree/main/Bus-Pass-System) | `React` `Node.js` `MySQL` | Automated student bus pass registrations and digital verification routes. |
+| [AI For Bharat Platform](https://github.com/VRAJPATEL621204/AI-for-Bharat_Single-Window-System-Project-Team-gitignore) | `Python` `Docker` `AWS` | Containerized API services and scaled models on cloud compute. |
+| [ZEI Project Hub](https://github.com/rishabhkankariya/ZEN_Project) | `React` `Node.js` `MySQL` | Shared code collaboration and script repository for engineering innovators. |
+| [Company Discovery Engine](https://github.com/adityarajlonkar09-commits/CDE) | `Node.js` `MySQL` `CI/CD` | Automated crawler and indexing system with GitHub Actions testing. |
 
 </div>
 
